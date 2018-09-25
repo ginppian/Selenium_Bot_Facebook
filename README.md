@@ -1,4 +1,4 @@
-Login automático en FB con Selenium para Python en Mac
+Bot de login automático en FB con la librería Selenium para Python en Mac
 ===
 
 ## 1. Instalamos el driver de Chrome o Firefox
